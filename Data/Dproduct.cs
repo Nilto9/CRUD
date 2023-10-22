@@ -8,7 +8,7 @@ namespace Data
 {
     public class Dproduct
     {
-        private string connectionString = "Data Source=LAB1504-10\\SQLEXPRESS;Initial Catalog=FacturaDB;User ID=tecsup;Password=tecsup";
+        private string connectionString = "Data Source=DESKTOP-UDBOVEP\\SQLEXPRESS;Initial Catalog=FacturaDB;User ID=tecsup;Password=tecsup";
 
         public List<Product> Get()
         {
